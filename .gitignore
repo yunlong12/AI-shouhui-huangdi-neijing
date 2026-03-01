@@ -1,0 +1,14 @@
+# Avoid accidentally committing large local book files.
+*.epub
+*.pdf
+*.mobi
+*.azw3
+*.zip
+*.7z
+*.rar
+
+!AI手绘黄帝内经-素问01篇V0_0.epub
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
